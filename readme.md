@@ -44,14 +44,3 @@ python main.py
 ```
 
 ---
-
-## Estructura del Proyecto
-```
-Asteroids/
-│
-├── main.py              # Archivo principal del juego
-├── requirements.txt     # Dependencias necesarias
-├── assets/              # Recursos del juego (imágenes, sonidos, etc.)
-├── src/                 # Código fuente adicional
-└── README.md            # Documentación
-```
